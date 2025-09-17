@@ -26,8 +26,10 @@
 |----------------|------------------|
 | Git / Github   | Versiyon kontrol |
 | Github Actions | CI/CD            |
+| Projects       | Gorev yonetimi   |
 | Postman        | API Testi        |
 | Docker         | Konteynerizasyon |
+
 
 
 

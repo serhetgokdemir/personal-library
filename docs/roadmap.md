@@ -21,7 +21,8 @@
 
 ------------------
 
-[1. Ek] ## Öğrenim Süreci ve Geliştirme Süreci
+[1. Ek] 
+## Öğrenim Süreci ve Geliştirme Süreci
 ### 1. Faz: 17 Eylül - 29 Eylül
 - C# genel tekrar
 - ASP.NET Core ufak giriş
@@ -53,7 +54,7 @@
 - Python ile hackerrank soru çözümü 
 - Projeyi deploy etme, hosting vb. işler, Railway öğrenme
 
-### Beşinci safha, 1 Ocak - 30 Ocak 
+### 5. Faz: 1 Ocak - 30 Ocak 
 Finaller 
 - Genel tekrar
 - Projenin CI/CD entegrasyonu ve ince ayarlar

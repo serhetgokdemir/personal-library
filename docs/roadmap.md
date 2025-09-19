@@ -21,7 +21,8 @@
 
 ------------------
 
-[1. Ek] ## Öğrenim Süreci ve Geliştirme Süreci
+[1. Ek] 
+## Öğrenim Süreci ve Geliştirme Süreci
 ### 1. Faz: 17 Eylül - 29 Eylül
 - C# genel tekrar
 - ASP.NET Core ufak giriş
@@ -31,7 +32,7 @@
 
 ### 2. Faz: 30 Eylül - 30 Ekim
 - Python genel tekrar ve hackerrank soruları çözmeye başlama 
-- ASP.NET Core, (Web API, MVC) 
+- ASP .NET Core, (Web API, MVC) 
 - Entity Framework Core 
 - Backend geliştirme 
 - xUnit ve mümkün oldukça günde 1 unit test yazımı 
@@ -39,11 +40,12 @@
 - Javascript öğrenme ve frontend geliştirme
 - HTML, CSS, Tailwind öğrenme 
 - SQL
+- Temel Docker
 
 ### 3. Faz: 1 Kasım - 30 Kasım 
 İlk sınav ayı olduğu için kritik. Daha çok ders, daha az teknoloji 
 - Günde 1 unit test (mümkün oldukça) yazımı 
-- React öğrenme ve projenin frontendini bir kısmını yapma 
+- React öğrenme ve projenin frontendinin bir kısmını yapma 
 - Identity Core 
 - Python Hackerrank soru çözümüne devam
 
@@ -52,8 +54,9 @@
 - Frontend tamamlama 
 - Python ile hackerrank soru çözümü 
 - Projeyi deploy etme, hosting vb. işler, Railway öğrenme
+- Teorik CI/CD
 
-### Beşinci safha, 1 Ocak - 30 Ocak 
+### 5. Faz: 1 Ocak - 30 Ocak 
 Finaller 
 - Genel tekrar
 - Projenin CI/CD entegrasyonu ve ince ayarlar
